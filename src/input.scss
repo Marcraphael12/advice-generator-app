@@ -46,6 +46,10 @@ main {
       background: hsl(217, 19%, 24%);
       border-radius: 10px;
 
+      @include devices(400) {
+        padding: 20px;
+      }
+
       h3 {
         color: hsl(150, 100%, 66%);
         font-size: 12px;
@@ -65,7 +69,7 @@ main {
         }
 
         @include devices (400) {
-          font-size: 14px;
+          font-size: 18px;
         }
       }
 
