@@ -28,7 +28,6 @@ const getRandomQuote = async () => {
     const randomQuote = data.slip.advice;
     // we assign the id to a variable
     const randomId = data.slip.id;
-    console.log(randomId);
     // we assign the quote to the DOM element
     quote.innerHTML = `"${randomQuote.toString()}"`;
     // we assign the id to the DOM element
