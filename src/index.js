@@ -15,3 +15,7 @@ const get = async (url) => {
 
 // Now we assign to an object the data we want
 const API = {get}
+
+// import our DOM elements
+const quote = document.querySelector('.quote');
+const id = document.querySelector('.id');
