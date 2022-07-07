@@ -4,4 +4,25 @@
   font-family: "Manrope", sans-serif;
 }
 
+body {
+  background: hsl(218deg, 23%, 16%);
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+main .advices {
+  width: 100%;
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+}
+
 /*# sourceMappingURL=style.css.map */
