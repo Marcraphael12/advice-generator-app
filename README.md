@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-with-webpack-c6pFnthl1R)
-- Live Site URL: [Add live site URL here](https://advice-generator-marc-12.netlify.app)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/advice-generator-app-with-webpack-c6pFnthl1R)
+- Live Site URL: [see live site here](https://advice-generator-marc-12.netlify.app)
 
 ## My process
 
